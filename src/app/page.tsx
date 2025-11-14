@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
@@ -173,8 +173,7 @@ export default function Home() {
               role: "Founder",
               company: "TaskFlow App",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35P1LUXVDX6Oh3omy3F4fM78YAJ/uploaded-1763141895446-r0e7r425.jpg",
-              quote: "BuilderCult transformed our app's visibility. Their UGC content strategy helped us go from 100 to 10K downloads in just 3 months."
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35P1LUXVDX6Oh3omy3F4fM78YAJ/uploaded-1763141895446-r0e7r425.jpg"
             },
             {
               id: "2",
@@ -182,8 +181,7 @@ export default function Home() {
               role: "Solo Developer",
               company: "FitTracker Pro",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35P1LUXVDX6Oh3omy3F4fM78YAJ/uploaded-1763141896198-aimsu2sw.jpg",
-              quote: "The conversion optimization system they built increased our free-to-paid rate by 300%. Game changer for indie developers."
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35P1LUXVDX6Oh3omy3F4fM78YAJ/uploaded-1763141896198-aimsu2sw.jpg"
             },
             {
               id: "3",
@@ -191,8 +189,7 @@ export default function Home() {
               role: "Co-founder",
               company: "StudyBuddy",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35P1LUXVDX6Oh3omy3F4fM78YAJ/uploaded-1763141896965-nmo8rjsj.jpg",
-              quote: "Their growth systems approach is methodical and data-driven. We finally have sustainable user acquisition."
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35P1LUXVDX6Oh3omy3F4fM78YAJ/uploaded-1763141896965-nmo8rjsj.jpg"
             },
             {
               id: "4",
@@ -200,8 +197,7 @@ export default function Home() {
               role: "Indie Hacker",
               company: "CodeTime",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35P1LUXVDX6Oh3omy3F4fM78YAJ/uploaded-1763141897683-mjs640wz.jpg",
-              quote: "Finally, marketing that makes sense for developers. BuilderCult speaks our language and delivers real results."
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35P1LUXVDX6Oh3omy3F4fM78YAJ/uploaded-1763141897683-mjs640wz.jpg"
             },
             {
               id: "5",
@@ -209,8 +205,7 @@ export default function Home() {
               role: "App Developer",
               company: "MoodTracker",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35P1LUXVDX6Oh3omy3F4fM78YAJ/uploaded-1763141898231-e7l9udxu.jpg",
-              quote: "The content they create feels authentic and actually converts. Our user engagement doubled in 6 weeks."
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35P1LUXVDX6Oh3omy3F4fM78YAJ/uploaded-1763141898231-e7l9udxu.jpg"
             },
             {
               id: "6",
@@ -218,8 +213,7 @@ export default function Home() {
               role: "Startup Founder",
               company: "BudgetWise",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35P1LUXVDX6Oh3omy3F4fM78YAJ/uploaded-1763141898990-3p74i1wl.jpg",
-              quote: "BuilderCult helped us scale from idea to 50K users. Their growth blueprint is worth every penny."
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35P1LUXVDX6Oh3omy3F4fM78YAJ/uploaded-1763141898990-3p74i1wl.jpg"
             }
           ]}
         />
